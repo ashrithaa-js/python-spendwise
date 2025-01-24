@@ -48,4 +48,4 @@ The **SpendWise** Expense Manager offers a simple solution for individuals looki
   Search for expenses by date, category, or time period, allowing quick location of specific transactions.
 
 ## Conclusion
-The **SpendWise** Expense Manager serves as an intuitive and comprehensive tool for individuals seeking to gain better insight into their financial health and habits. Its variety of features and customizable options make it a valuable asset for personal financial management.
+The **SpendWise** serves as an intuitive and comprehensive tool for individuals seeking to gain better insight into their financial health and habits. Its variety of features and customizable options make it a valuable asset for personal financial management.
